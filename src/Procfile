@@ -1,0 +1,2 @@
+web: py -m waitress --call main:app
+
